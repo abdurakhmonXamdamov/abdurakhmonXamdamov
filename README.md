@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdurakhmon Xamdamov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
+<img align="right" alt="Coding" width="400" src="https://www.valamis.com/wp-content/uploads/2022/09/time-famine-hero.gif"> 
 
-<p align="left"> <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurakhmonxamdamov&label=Profile%20views&color=0e75b6&style=flat" alt="abdurakhmonxamdamov" /> </p>
 
 - 🔭 I’m currently working on **myBlog**
 
